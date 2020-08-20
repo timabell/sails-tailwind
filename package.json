@@ -16,7 +16,8 @@
     "tailwindcss": "^1.7.3"
   },
   "devDependencies": {
-    "eslint": "5.16.0"
+    "eslint": "5.16.0",
+    "sails-hook-postcss": "^1.1.0"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
