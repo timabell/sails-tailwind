@@ -11,6 +11,7 @@ module.exports = function(grunt) {
   grunt.registerTask('compileAssets', [
     'clean:dev',
     'less:dev',
+    'postcss:dev',
     'copy:dev',
   ]);
 };
