@@ -1,6 +1,8 @@
 # sails-tailwind
 
-a [Sails v1](https://sailsjs.com) application
+A [Sails v1](https://sailsjs.com) application
+
+This is an attempt to plug tailwind into sails using the right asset pipeline.
 
 
 ### Links
